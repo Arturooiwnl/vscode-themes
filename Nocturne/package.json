@@ -3,6 +3,8 @@
   "displayName": "Nocturne",
   "description": "Dark, elegant, and easy on the eyes.",
   "version": "0.0.1",
+  "publisher": "Arturoiwnl",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.99.0"
   },
