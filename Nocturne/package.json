@@ -2,9 +2,16 @@
   "name": "nocturne",
   "displayName": "Nocturne",
   "description": "Dark, elegant, and easy on the eyes.",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "icon.png",
   "publisher": "Arturoiwnl",
   "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark",
+    "dark-color",
+    "nocturne"
+  ],
   "engines": {
     "vscode": "^1.99.0"
   },
