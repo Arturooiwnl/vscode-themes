@@ -6,7 +6,7 @@
 
 ## 📸 Screenshots
 
-add image
+![Preview](https://raw.githubusercontent.com/Arturooiwnl/vscode-themes/refs/heads/main/Nocturne/images/muestra-theme.png)
 
 ---
 
@@ -25,7 +25,7 @@ add image
 
 ## 📸 Capturas
 
-add image
+![Preview](https://raw.githubusercontent.com/Arturooiwnl/vscode-themes/refs/heads/main/Nocturne/images/muestra-theme.png)
 
 ---
 
@@ -33,6 +33,6 @@ add image
 
 1. Abrí la paleta de comandos (`Ctrl+Shift+P` o `Cmd+Shift+P` en macOS)
 2. Escribí: `Extensiones: Instalar extensiones`
-3. Buscá: `Nocturne - Theme`
+3. Buscá: `Nocturne (de Arturoiwnl)`
 4. Hacé clic en "Instalar"
 
